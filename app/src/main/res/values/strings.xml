@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Tip Calculator</string>
+    <string name="app_name">Calculadora de Gorjetas</string>
     <string name="cost_of_service">Custo do Serviço</string>
     <string name="how_was_the_service">Como foi o Serviço?</string>
     <string name="incredible">Incrível (20%)</string>
@@ -7,5 +7,5 @@
     <string name="regular">Regular (15%)</string>
     <string name="round_up_tip">Arrendodar Gorjeta?</string>
     <string name="calculate">Calcular Gorjeta</string>
-    <string name="tip_amount">Valor da Gorjeta</string>
+    <string name="tip_amount">Valor da Gorjeta %s</string>
 </resources>
